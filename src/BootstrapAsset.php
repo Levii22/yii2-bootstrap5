@@ -25,6 +25,6 @@ class BootstrapAsset extends AssetBundle
      * @inheritDoc
      */
     public $css = [
-        'css/bootstrap.css'
+        'css/bootstrap.min.css'
     ];
 }

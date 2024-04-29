@@ -25,7 +25,7 @@ class BootstrapPluginAsset extends AssetBundle
      * @inheritDoc
      */
     public $js = [
-        'js/bootstrap.bundle.js'
+        'js/bootstrap.bundle.min.js'
     ];
 
     /**
